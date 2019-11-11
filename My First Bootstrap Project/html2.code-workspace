@@ -1,0 +1,13 @@
+{
+    "folders": [
+		{
+			"path": "images"
+		},
+		{
+			"path": "."
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "My First Bootstrap Project"
+    }
+}
